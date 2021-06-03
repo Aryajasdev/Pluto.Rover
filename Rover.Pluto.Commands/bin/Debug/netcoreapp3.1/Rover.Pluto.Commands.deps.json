@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rover.Pluto.Commands/1.0.0": {
+        "dependencies": {
+          "Rover.Pluto.Core": "1.0.0"
+        },
+        "runtime": {
+          "Rover.Pluto.Commands.dll": {}
+        }
+      },
+      "Rover.Pluto.Core/1.0.0": {
+        "runtime": {
+          "Rover.Pluto.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rover.Pluto.Commands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rover.Pluto.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

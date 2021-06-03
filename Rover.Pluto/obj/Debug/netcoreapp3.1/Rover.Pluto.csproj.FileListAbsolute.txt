@@ -1,0 +1,9 @@
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\bin\Debug\netcoreapp3.1\Rover.Pluto.deps.json
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\bin\Debug\netcoreapp3.1\Rover.Pluto.dll
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\bin\Debug\netcoreapp3.1\Rover.Pluto.pdb
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.csproj.AssemblyReference.cache
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.AssemblyInfoInputs.cache
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.AssemblyInfo.cs
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.csproj.CoreCompileInputs.cache
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.dll
+E:\Rover Solution\Rover.Pluto\Rover.Pluto\obj\Debug\netcoreapp3.1\Rover.Pluto.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4I9e2GxxlaVdoiYmrqCuca/ELSDNWncbMlRMvFdPiUri7BEdfQclwPaEhmHf+2u0XR5VZw/J5nljnSx5lk1tQ==",
+  "success": true,
+  "projectFilePath": "E:\\Rover Solution\\Rover.Pluto\\Rover.Pluto\\Rover.Pluto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParveenK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
